@@ -1,6 +1,6 @@
 {
   "name": "envtojson",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert current environment variables to JSON",
   "main": "null",
   "repository": {

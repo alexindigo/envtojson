@@ -1,0 +1,24 @@
+{
+  "name": "envtojson",
+  "version": "0.0.0",
+  "description": "Convert current environment variables to JSON",
+  "main": "null",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Songkick/envtojson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Songkick/envtojson/issues"
+  },
+  "homepage": "https://github.com/Songkick/envtojson#readme",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "env",
+    "json",
+    "cli"
+  ],
+  "author": "Arnaud Rinquin",
+  "license": "MIT"
+}

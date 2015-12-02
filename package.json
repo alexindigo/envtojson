@@ -5,12 +5,12 @@
   "main": "null",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Songkick/envtojson.git"
+    "url": "git+https://github.com/ArnaudRinquin/envtojson.git"
   },
   "bugs": {
-    "url": "https://github.com/Songkick/envtojson/issues"
+    "url": "https://github.com/ArnaudRinquin/envtojson/issues"
   },
-  "homepage": "https://github.com/Songkick/envtojson#readme",
+  "homepage": "https://github.com/ArnaudRinquin/envtojson#readme",
   "scripts": {
     "test": "node test.js"
   },

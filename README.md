@@ -1,11 +1,13 @@
-# env-to-json
+# envtojson-cli
 
-[![Build Status](https://travis-ci.org/ArnaudRinquin/envtojson.svg)](https://travis-ci.org/ArnaudRinquin/envtojson)
+[![Build Status](https://travis-ci.org/alexindigo/envtojson.svg)](https://travis-ci.org/alexindigo/envtojson)
+
+_CLI version of [envtojson](https://github.com/ArnaudRinquin/envtojson) package._
 
 Convert current env variables to JSON
 
 ```bash
-npm envtojson
+npx envtojson-cli
 ```
 
 ## Usage `envtojson [indent]`

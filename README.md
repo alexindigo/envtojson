@@ -1,6 +1,6 @@
 # envtojson-cli
 
-[![Build Status](https://travis-ci.org/alexindigo/envtojson.svg)](https://travis-ci.org/alexindigo/envtojson)
+[![Build Status](https://travis-ci.com/alexindigo/envtojson.svg)](https://travis-ci.com/alexindigo/envtojson)
 
 _CLI version of [envtojson](https://github.com/ArnaudRinquin/envtojson) package._
 

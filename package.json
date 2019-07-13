@@ -1,16 +1,19 @@
 {
-  "name": "envtojson",
-  "version": "0.0.1",
+  "name": "envtojson-cli",
+  "version": "1.0.0",
   "description": "Convert current environment variables to JSON",
   "main": "null",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArnaudRinquin/envtojson.git"
+    "url": "git+https://github.com/alexindigo/envtojson.git"
+  },
+  "bin": {
+    "envtojson": "./bin.js"
   },
   "bugs": {
-    "url": "https://github.com/ArnaudRinquin/envtojson/issues"
+    "url": "https://github.com/alexindigo/envtojson/issues"
   },
-  "homepage": "https://github.com/ArnaudRinquin/envtojson#readme",
+  "homepage": "https://github.com/alexindigo/envtojson#readme",
   "scripts": {
     "test": "node test.js"
   },
